@@ -137,7 +137,7 @@ The forward SC simulation represents the transition from initial cutting
 and transport to groove filling and strong compaction of the accumulated
 snow.
 
-▶ **[Watch the forward SC simulation](media/videos/sc_forward.mp4)**
+▶ **[Watch the forward SC simulation](media/videos/sc_forward.gif)**
 
 As the cavity fills, localized damage develops around the cutting region,
 while volumetric compaction inside the filled cavity activates healing and
@@ -153,7 +153,7 @@ of motion is reversed.
 The backward simulation investigates the transition from a bonded,
 compacted snow–snow interface to debonding and subsequent sliding.
 
-▶ **[Watch the backward SC simulation](media/videos/sc_backward.mp4)**
+▶ **[Watch the backward SC simulation](media/videos/sc_backward.gif)**
 
 The rate-type damage–healing formulation allows renewed damage to develop
 at the snow–snow interface after the previously compacted material has
