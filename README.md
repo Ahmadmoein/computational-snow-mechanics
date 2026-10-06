@@ -1,5 +1,7 @@
 # Computational Snow Mechanics & Tire–Snow Interaction
 
+![SC forward simulation](media/videos/sc_forward.gif)
+
 This repository presents selected results from my research on the
 computational modeling of hard-packed snow for tire–snow interaction.
 
