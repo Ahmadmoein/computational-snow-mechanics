@@ -11,3 +11,5 @@ localization, fragmentation, and large-deformation snow interaction.
 A central outcome is a rate-type damage–healing extension of a cohesive
 Modified Cam-Clay model, developed for repeated degradation and recovery
 of hard-packed snow under complex loading paths.
+
+> Research conducted at TU Dresden in collaboration with Continental AG.
