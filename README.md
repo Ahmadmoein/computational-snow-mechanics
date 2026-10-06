@@ -74,7 +74,7 @@ Two complementary numerical frameworks are used.
 
 ### Finite Element Method
 
-FEM is used for constitutive verification, material-test simulations,
+FEM is used for constitutive verification and material-test simulations,
 parameter selection, and investigation of gradient-enhanced localization.
 
 The investigated material tests include:
@@ -112,8 +112,8 @@ refinement.
 The direct-shear simulations demonstrate the difference between a local
 damage formulation and the gradient-enhanced model.
 
-![Direct shear regularization](media/figures/DSTmeshconv.pdf)
-![Direct shear regularization](media/figures/nonlocal_DST.pdf)
+![Direct shear regularization](media/figures/DSTmeshconv.png)
+![Direct shear regularization](media/figures/nonlocal_DST.png)
 
 *Direct-shear simulations illustrating regularized localization under grid
 refinement. Figure adapted from Moeineddin et al., International Journal of
@@ -137,7 +137,7 @@ The forward SC simulation represents the transition from initial cutting
 and transport to groove filling and strong compaction of the accumulated
 snow.
 
-▶ **[Watch the forward SC simulation](media/videos/sc_forward.avi)**
+▶ **[Watch the forward SC simulation](media/videos/sc_forward.mp4)**
 
 As the cavity fills, localized damage develops around the cutting region,
 while volumetric compaction inside the filled cavity activates healing and
@@ -153,7 +153,7 @@ of motion is reversed.
 The backward simulation investigates the transition from a bonded,
 compacted snow–snow interface to debonding and subsequent sliding.
 
-▶ **[Watch the backward SC simulation](media/videos/sc_backward.avi)**
+▶ **[Watch the backward SC simulation](media/videos/sc_backward.mp4)**
 
 The rate-type damage–healing formulation allows renewed damage to develop
 at the snow–snow interface after the previously compacted material has
